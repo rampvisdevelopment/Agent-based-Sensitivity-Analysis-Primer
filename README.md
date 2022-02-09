@@ -1,8 +1,9 @@
-# Agent-based Sensitivity Analysis Primer
+# Agent-
+Sensitivity Analysis Primer
 
 ------
 
-This document will describe how to (1) add new datasets for agent-based sensitivity analysis framework can be used for and (2) how the agent gased system works.
+This document will describe how to (1) add new datasets for agent-based sensitivity analysis framework can be used for and (2) how the agent-based system works.
 
 ## 1) Adding new datasets.
 
