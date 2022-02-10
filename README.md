@@ -83,4 +83,4 @@ So the steps for adding a new dataset are:
    
    ![alt text](figures/schematic.svg)
 
-Where the orange boxed correspond to agents, and black arrows denote that the object at the end of the arrow is created by the object at the beginning og the arrow. Coloured arrows denot that the data at the start of the arrow is read/used by the object at the end of the arrow.
+Where the orange boxed correspond to agents, and black arrows denote that the object at the end of the arrow is created by the object at the beginning og the arrow. Coloured arrows denote that the data at the start of the arrow is read/used by the object at the end of the arrow.
