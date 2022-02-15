@@ -8,7 +8,7 @@ This document will describe how to (1) add new datasets for agent-based sensitiv
 
 The system expects data in the ensemble timeseries (ents) format, essentially as a specific collection of CSV files. Details on the ents format can be found [here](https://github.com/rampvisdevelopment/Ensemble_Time_Series_Format)
 
-So the steps for adding a new dataset are:
+The steps for adding a new dataset are:
 
 0) Have data the ents format. Come up with a **name** for your dataset
 1. Upload dataset in either zip format or on a service where they may be downloaded as a zip. When the SCRC data-pipeline is complete this can be used, until then upload to github works, [here is an example](https://github.com/rampvisdevelopment/ents_example_dataset).
