@@ -1,5 +1,4 @@
-# Agent-
-Sensitivity Analysis Primer
+# Agent-based Sensitivity Analysis Primer
 
 ------
 
