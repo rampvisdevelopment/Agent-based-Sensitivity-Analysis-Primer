@@ -10,7 +10,7 @@ The system expects data in the ensemble timeseries (ents) format, essentially as
 
 The steps for adding a new dataset are:
 
-0) Have data the ents format. Come up with a **name** for your dataset
+0) Have data in the ents format. Come up with a **name** for your dataset
 1. Upload dataset in either zip format or on a service where they may be downloaded as a zip. When the SCRC data-pipeline is complete this can be used, until then upload to github works, [here is an example](https://github.com/rampvisdevelopment/ents_example_dataset).
 
 2. Obtain URL/api endpoint for the dataset in zip format. For example: Github repos can be downloaded as zip using a url as *https://github.com/rampvisdevelopment/ents_example_dataset/archive/main.zip* 
